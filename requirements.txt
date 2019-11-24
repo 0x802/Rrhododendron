@@ -1,0 +1,4 @@
+nmap
+click
+getpass
+sqlite3
